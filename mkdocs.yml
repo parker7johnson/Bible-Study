@@ -1,0 +1,7 @@
+site_name: Bible Study
+theme:
+  name: material
+
+nav:
+  - Meeting One: meeting_one/README.md
+

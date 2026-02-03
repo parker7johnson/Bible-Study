@@ -1,6 +1,6 @@
 # The Core of the Gospel
-
---------
+## The main message we want to spread to the world
+---
 
 1. Jesus is the Son of God who lived a sinless life.
     - prophecied by Isaiah 53
@@ -17,3 +17,7 @@
 4. The Great Commission
     - Go make desciples of all nations
     - Teach them to observe everything I have commanded you
+
+When should we start talking about Jesus after we meet someone?
+
+
