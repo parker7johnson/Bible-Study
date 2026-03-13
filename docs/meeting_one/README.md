@@ -18,6 +18,14 @@
     - Go make desciples of all nations
     - Teach them to observe everything I have commanded you
 
+5. What evidence can we give to people who don't believe what the bible says about Jesus?
+    - First century historians attest to Jesus existance and crucifixion and one attests to his resurrection
+        - Tacitus
+        - Josephus
+        - Julius Africanus
+        - [source](https://www.explainchristianity.com/evidence-from-non-biblical-sources-that-jesus-died/)
+    - The gospels are eye witness accounts of their experiences with Jesus
+
 When should we start talking about Jesus after we meet someone?
 
 

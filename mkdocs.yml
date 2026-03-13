@@ -1,7 +1,9 @@
 site_name: Bible Study
+site_url: https://parker7johnson.github.io/Bible-Study/
 theme:
   name: material
 
 nav:
+  - Home: index.md
   - Meeting One: meeting_one/README.md
 
